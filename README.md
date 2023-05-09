@@ -14,3 +14,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![](https://komarev.com/ghpvc/?username=abhi6204&color=brightgreen)
+
+<br>
+<div align="center">
+  
+![Keshav's GitHub stats](https://github-readme-stats.vercel.app/api?username=abhi6204&theme=algolia)
+ 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abhi6204&theme=algolia&count_private=true)
+  
+  
+</div>
